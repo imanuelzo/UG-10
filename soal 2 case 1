@@ -1,0 +1,8 @@
+program penghitung pythagoras
+angka = int(input("Masukan Bilangan Bulat Pertama: "))
+if angka 3:
+    print ("Merupakan pythagoras")
+else :
+    print ("Merupakan pythagoras")
+
+
